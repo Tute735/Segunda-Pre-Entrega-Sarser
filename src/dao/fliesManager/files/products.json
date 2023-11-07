@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Zapatilla Deportiva Aire Libre",
+        "description": "Zapatilla deportiva para actividades al aire libre",
+        "price": 3500,
+        "thumbnail": "https://example.com/zapatilla1.jpg",
+        "code": "ZP001",
+        "stock": 5,
+        "id": 1
+    },
+    {
+        "title": "Zapatilla Running Profesional",
+        "description": "Zapatilla de running de alta calidad",
+        "price": 5500,
+        "thumbnail": "https://example.com/zapatilla2.jpg",
+        "code": "ZP002",
+        "stock": 10,
+        "id": 2
+    },
+    {
+        "title": "Zapatilla Urbana Elegante",
+        "description": "Zapatilla urbana con diseño elegante",
+        "price": 4500,
+        "thumbnail": "https://example.com/zapatilla3.jpg",
+        "code": "ZP003",
+        "stock": 8,
+        "id": 3
+    },
+    {
+        "title": "Zapatilla Skateboard Profesional",
+        "description": "Zapatilla para skateboard de alto rendimiento",
+        "price": 6500,
+        "thumbnail": "https://example.com/zapatilla4.jpg",
+        "code": "ZP004",
+        "stock": 3,
+        "id": 4
+    },
+    {
+        "title": "Zapatilla Trekking Resistente",
+        "description": "Zapatilla de trekking resistente para terrenos difíciles",
+        "price": 7500,
+        "thumbnail": "https://example.com/zapatilla5.jpg",
+        "code": "ZP005",
+        "stock": 6,
+        "id": 5
+    },
+    {
+        "title": "Zapatilla Casual Estampada",
+        "description": "Zapatilla casual con diseño estampado",
+        "price": 4200,
+        "thumbnail": "https://example.com/zapatilla6.jpg",
+        "code": "ZP006",
+        "stock": 7,
+        "id": 6
+    },
+    {
+        "title": "Set Zapatillas Deportivas",
+        "description": "Set de zapatillas deportivas variadas",
+        "price": 12000,
+        "thumbnail": "https://example.com/zapatilla7.jpg",
+        "code": "ZP007",
+        "stock": 4,
+        "id": 7
+    },
+    {
+        "title": "Zapatilla Moda Urbana",
+        "description": "Zapatilla de moda urbana con estilo único",
+        "price": 6800,
+        "thumbnail": "https://example.com/zapatilla8.jpg",
+        "code": "ZP008",
+        "stock": 9,
+        "id": 8
+    }
+]
